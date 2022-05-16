@@ -27,7 +27,23 @@ class LuciferMoringstar(object):
 
 🗣️ My Support : [Any Doubt](t.me/Mo_Tech_Group)"""
 
-    FILE_CAPTIONS = """Hello 👋 {mention}\n\n📁Title {title}\n\n🔘Size {size}"""
+    FILE_CAPTIONS = """╭──[ミ★ ONLINE CINEMA ★彡]──╮
+
+├• 👋 𝐇𝐞𝐥𝐥𝐨 {mention}
+
+├• ✅ 𝐘𝐨𝐮𝐫 𝐅𝐢𝐥𝐞 𝐈𝐬 𝐑𝐞𝐚𝐝𝐲
+
+├• 🎬 𝐓𝐢𝐭𝐥𝐞 : <code>{title}</code>
+
+├• 💾 𝐒𝐢𝐳𝐞 : {size}
+
+├• 🔘 𝐉𝐨𝐢𝐧 🎗 𝐒𝐡𝐚𝐫𝐞 🎗 𝐒𝐮𝐩𝐩𝐨𝐫𝐭
+
+├• 🔗 <a href ='https://t.me/movie_time_adda'>ONLINE CINEMA</a>
+
+├• 📣 <a href='https://t.me/+V-4mscR9JDVmZmE1'>ONLINE CINEMA UPDATES</a>
+
+├• ⬆️ 𝐔𝐩𝐥𝐨𝐚𝐝𝐞𝐝 𝐁𝐲 <a href= 'https://t.me/movie_time_adda'>ONLINE CINEMA</a>"""
 
     PR0FESS0R_99 = """
 **ADMINS COMMANDS**
