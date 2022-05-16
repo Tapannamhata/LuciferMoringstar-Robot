@@ -23,9 +23,9 @@ class LuciferMoringstar(object):
 
 🗳️ My Server : [Heroku](https://youtu.be/xcZD55td6Vw)
 
-🏷️ My Updates : [Mo Tech](t.me/Mo_Tech_YT)
+🏷️ My Updates : [TK City](t.me/+V2z8MekNB684Y2I1)
 
-🗣️ My Support : [Any Doubt](t.me/Mo_Tech_Group)"""
+🗣️ My Support : [TK World](t.me/+V2z8MekNB684Y2I1)"""
 
     FILE_CAPTIONS = """╭──[ミ★ ONLINE CINEMA ★彡]──╮
 
